@@ -1,0 +1,12 @@
+﻿  1.Data.cpp
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(79,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(80,11): warning C4552: '<': 식의 결과가 사용되지 않습니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(81,11): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(82,11): warning C4552: '>': 식의 결과가 사용되지 않습니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(83,11): warning C4552: '>=': 식의 결과가 사용되지 않습니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(88,9): warning C4552: '!': 식의 결과가 사용되지 않습니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(10,14): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(11,15): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(12,13): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\C++\C++\1.Data\1.Data\1.Data.cpp(13,19): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  1.Data.vcxproj -> C:\Users\user\Desktop\C++\C++\1.Data\x64\Debug\1.Data.exe
