@@ -1,0 +1,9 @@
+﻿  9.STL.cpp
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(165,9): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(175,10): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(192,10): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(194,17): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(195,17): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(196,17): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+C:\Users\user\Desktop\C++\C++\9.STL\9.STL\9.STL.cpp(359,14): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  9.STL.vcxproj -> C:\Users\user\Desktop\C++\C++\9.STL\x64\Debug\9.STL.exe
